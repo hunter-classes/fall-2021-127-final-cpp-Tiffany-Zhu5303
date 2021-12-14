@@ -1,0 +1,61 @@
+* Fall 2021 - 127 - Final Exam - C++ 
+
+* Last Name: 
+
+* First Name: 
+
+* GitHub username: 
+
+* Notes:
+
+* Instructions
+
+- This part of the exam is to be done at home. It is due  right when
+  the in person part of the final starts (Thursday 12/16 at
+  11:30am). You must have pushed all your work to GitHub by then.
+
+- You must add a file name *final.cpp* to this repo, commit and push
+  it. When compiled and run it should print out sufficient information
+  to show that the question(s) are correct. 
+
+- Place any notes you want to tell me in this file under the *Notes:*
+  heading above.
+
+- You may use the notes you took in class and the C++ references
+  mentioned on the main 135 site as well as the ones I've given
+  you. You may not search for code samples or solutions.
+
+* Questions
+
+Create a file named *final.cpp* in this repo. You should hard code
+your tests. That is, there should be no keyboard input when the
+program is run.
+
+
+** isRightTriangle? (10pts)
+
+Writer a function isRightTriangle. It will take three integer
+parameters. The first two represent the two legs of a right triangle
+and the third represents the hypotenuse.
+
+Recall that a triangle with legs *a* and *b* and hypoteneus *c* is a right triangle if
+*a^2+b^2=c^2*. Your program should return true if the three sides
+represents a right triangle and false otherwise. You should assume
+that your first two parameters are the legs and the third the
+hypotenuse.
+
+Test from main with numbers of your choosing. 
+
+** FizzBuzz (20pts)
+
+Write a function named fizzbuzz. It should accept an *int* as a
+parameter and it should return a *std::string*. If tqhe parameter is
+divisible by *3* the function should return the *std::string** "fizz"
+if the number is divisible by *5*, return "buzz" and if divisible by
+both *3* and *5* return "fizzbuzz."
+
+Test from main.
+
+For full credit, have the program print the results of fizzbuzz on the
+first 21 positive integers.
+
