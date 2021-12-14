@@ -1,10 +1,10 @@
 * Fall 2021 - 127 - Final Exam - C++ 
 
-* Last Name: 
+* Last Name: Zhu
 
-* First Name: 
+* First Name: Tiffany
 
-* GitHub username: 
+* GitHub username: Tiffany-Zhu5303
 
 * Notes:
 
